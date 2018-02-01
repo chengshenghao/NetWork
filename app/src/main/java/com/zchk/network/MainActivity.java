@@ -14,7 +14,9 @@ import com.zchk.mylibrary.netmanager.NetUtils;
 
 import static android.icu.lang.UCharacter.GraphemeClusterBreak.T;
 import static android.os.Build.VERSION_CODES.N;
-
+/*
+* 主界面
+* */
 public class MainActivity extends BaseActivity {
 
     private View netError;
